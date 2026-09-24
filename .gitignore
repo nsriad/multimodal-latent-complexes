@@ -39,3 +39,6 @@ __pycache__/
 .AppleDouble
 .LSOverride
 Icon
+
+# ignore images/plots
+asset/
