@@ -1,0 +1,41 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets and Embeddings
+data/raw/
+data/processed/
+*.pt
+*.pth
+*.onnx
+*.npy
+*.npz
+
+# ROS 2 & Simulation Artifacts
+*.bag
+*.db3
+*.yaml
+log/
+build/
+install/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Editor & OS files
+.vscode/
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
